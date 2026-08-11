@@ -1,0 +1,19 @@
+﻿supplier_id,supplier_name,contact_person,email,mobile_number,street_address,city,province,region,country,payment_terms,lead_time_days,supplier_status,created_at,updated_at
+SUP0001,PrimeSource Office Supplies Inc.,Kenneth Cruz,kenneth.cruz@primesourceoffice.com,09203218196,42 Business Park,Makati,Metro Manila,NCR,Philippines,Cash,5,Active,1/30/2023,12/7/2023
+SUP0002,MetroTech Distribution Corporation,Patricia Soriano,patricia.soriano@metrotechdistribution.com,09818637940,787 Business Park,Makati,Metro Manila,NCR,Philippines,Net 15,25,Active,7/29/2022,3/19/2023
+SUP0003,Vertex Industrial Traders,Mark Mendoza,mark.mendoza@vertexindustrial.com,09181615594,836 Business Park,Quezon City,Metro Manila,NCR,Philippines,Cash,26,Active,2/21/2023,3/1/2024
+SUP0004,Golden Axis Business Solutions,Carlo Del Rosario,carlo.delrosario@goldenaxis.com,09219593103,801 Business Park,Dasmariñas,Cavite,CALABARZON,Philippines,Net 30,5,Active,3/22/2021,11/7/2022
+SUP0005,Pacific Office Essentials,Vincent Cruz,vincent.cruz@pacificoffice.com,09775255341,633 Business Park,Dasmariñas,Cavite,CALABARZON,Philippines,Net 15,20,Active,10/12/2021,2/18/2023
+SUP0006,NorthPeak Technology Supply,Angela Salazar,angela.salazar@northpeaktech.com,09818350305,420 Business Park,Dasmariñas,Cavite,CALABARZON,Philippines,Net 30,5,Active,10/4/2021,8/20/2023
+SUP0007,Alliance Office Products,Christian Santiago,christian.santiago@allianceoffice.com,09777672423,772 Business Park,Davao City,Davao del Sur,Davao Region,Philippines,Net 30,26,Active,11/19/2021,7/24/2022
+SUP0008,Pinnacle Distribution Group,Marvin Dela Cruz,marvin.delacruz@pinnacledg.com,09198710122,821 Business Park,Dasmariñas,Cavite,CALABARZON,Philippines,Net 45,22,Active,1/6/2022,9/17/2022
+SUP0009,EastBridge Business Supply,Rose Soriano,rose.soriano@eastbridge.com,09560184514,455 Business Park,Malolos,Bulacan,Central Luzon,Philippines,Net 15,17,Active,6/26/2022,4/9/2023
+SUP0010,BluePeak Office Systems,Jerome Santiago,jerome.santiago@bluepeak.com,09982814893,166 Business Park,Davao City,Davao del Sur,Davao Region,Philippines,Net 30,27,Active,9/27/2021,3/23/2023
+SUP0011,Sterling Office Supply,Sheila Del Rosario,sheila.delrosario@sterlingoffice.com,09287015430,256 Business Park,San Fernando,Pampanga,Central Luzon,Philippines,Cash,5,Active,1/1/2021,10/6/2022
+SUP0012,Horizon Business Solutions,Alyssa Garcia,alyssa.garcia@horizonbiz.com,09197824896,997 Business Park,San Fernando,Pampanga,Central Luzon,Philippines,Net 15,20,Active,2/24/2023,8/1/2023
+SUP0013,ExcelPro Distribution,Kim Villanueva,kim.villanueva@excelpro.com,09775787133,75 Business Park,Davao City,Davao del Sur,Davao Region,Philippines,Net 30,3,Active,11/16/2021,1/28/2023
+SUP0014,Optimum Tech Traders,Paolo Dela Cruz,paolo.delacruz@optimumtech.com,09810310518,253 Business Park,Quezon City,Metro Manila,NCR,Philippines,Net 30,24,Active,1/8/2021,4/20/2021
+SUP0015,Summit Industrial Supply,Daniel Mendoza,daniel.mendoza@summitindustrial.com,09453763116,372 Business Park,Davao City,Davao del Sur,Davao Region,Philippines,Net 45,16,Active,8/8/2022,4/19/2024
+SUP0016,CoreLink Office Products,Jerome Reyes,jerome.reyes@corelink.com,09180651333,559 Business Park,Iloilo City,Iloilo,Western Visayas,Philippines,Net 45,7,Active,11/1/2022,9/22/2024
+SUP0017,NextWave Distribution,Mark Salazar,mark.salazar@nextwave.com,09458108013,180 Business Park,Quezon City,Metro Manila,NCR,Philippines,Net 45,18,Active,6/15/2023,9/30/2023
+SUP0018,Unity Business Essentials,Vincent Domingo,vincent.domingo@unitybusiness.com,09176474687,168 Business Park,Makati,Metro Manila,NCR,Philippines,Net 15,12,Active,6/18/2021,8/10/2022

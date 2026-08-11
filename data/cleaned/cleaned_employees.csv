@@ -1,0 +1,31 @@
+﻿employee_id,first_name,last_name,full_name,department,job_title,manager_id,email,mobile_number,hire_date,employment_type,salary,status,created_at,updated_at
+EMP0001,Gabriel,Bautista,Gabriel Bautista,Executive,General Manager,,gabriel.bautista@lotscorp.com,09176894122,1/6/2021,Regular,146000,Active,1/6/2021 16:58,11/17/2025 9:25
+EMP0002,Christopher,Dela Cruz,Christopher Dela Cruz,Sales,Sales Manager,EMP0001,christopher.delacruz.cruz@lotscorp.com,09818027971,10/2/2021,Regular,94000,Active,10/6/2021 11:41,8/21/2022 1:07
+EMP0003,Daisy,Torres,Daisy Torres,Sales,Sales Representative,EMP0002,daisy.torres@lotscorp.com,09566831567,1/13/2025,Regular,28000,Active,1/16/2025 15:51,12/7/2025 17:48
+EMP0004,Paolo,De Guzman,Paolo De Guzman,Sales,Sales Representative,EMP0002,paolo.deguzman@lotscorp.com,09191465145,1/21/2022,Regular,34500,Active,1/21/2022 0:38,6/5/2026 11:35
+EMP0005,Maria,Hernandez,Maria Hernandez,Sales,Sales Representative,EMP0002,maria.hernandez@lotscorp.com,09565367661,1/11/2025,Regular,36000,Active,1/13/2025 21:17,1/31/2025 22:58
+EMP0006,David,De Guzman,David De Guzman,Sales,Sales Representative,EMP0002,david.deguzman@lotscorp.com,09669280167,6/26/2025,Regular,30500,Active,6/28/2025 5:31,7/10/2026 23:34
+EMP0007,Michael,Bautista,Michael Bautista,Sales,Sales Representative,EMP0002,michael.bautista@lotscorp.com,09669759493,1/5/2023,Regular,28000,Active,1/7/2023 16:36,1/15/2024 23:19
+EMP0008,Irene,Domingo,Irene Domingo,Sales,Sales Representative,EMP0002,irene.domingo@lotscorp.com,09772641603,11/14/2024,Regular,34500,Active,11/15/2024 2:19,11/11/2025 19:09
+EMP0009,Michelle,Flores,Michelle Flores,Sales,Sales Representative,EMP0002,michelle.flores@lotscorp.com,09280553694,12/11/2025,Contract,28000,Active,12/14/2025 1:31,6/20/2026 15:41
+EMP0010,Nathan,Santiago,Nathan Santiago,Warehouse,Warehouse Manager,EMP0001,nathan.santiago@lotscorp.com,09815562441,10/13/2021,Regular,84500,Active,10/19/2021 0:18,1/26/2026 16:23
+EMP0011,Bea,Castro,Bea Castro,Warehouse,Warehouse Supervisor,EMP0010,bea.castro@lotscorp.com,09817915427,4/27/2023,Regular,53000,Active,4/28/2023 15:22,11/29/2023 1:21
+EMP0012,April,Salazar,April Salazar,Warehouse,Warehouse Associate,EMP0011,april.salazar@lotscorp.com,09457917371,2/16/2023,Regular,23000,Active,2/20/2023 19:35,9/4/2024 0:57
+EMP0013,Christopher,Santos,Christopher Santos,Warehouse,Warehouse Associate,EMP0011,christopher.santos@lotscorp.com,09198984838,12/27/2022,Probationary,23000,Active,12/29/2022 3:30,8/24/2025 6:07
+EMP0014,Vanessa,Aquino,Vanessa Aquino,Warehouse,Warehouse Associate,EMP0011,vanessa.aquino@lotscorp.com,09182523444,6/29/2025,Probationary,28500,Active,7/1/2025 22:58,12/12/2025 18:52
+EMP0015,Patricia,Ocampo,Patricia Ocampo,Warehouse,Warehouse Associate,EMP0011,patricia.ocampo@lotscorp.com,09989855879,9/8/2023,Regular,20500,Active,9/12/2023 14:49,12/3/2024 15:49
+EMP0016,Lovely,Torres,Lovely Torres,Warehouse,Warehouse Associate,EMP0011,lovely.torres@lotscorp.com,09458611832,6/10/2024,Regular,22500,Active,6/16/2024 5:55,5/29/2026 7:35
+EMP0017,Mark,Torres,Mark Torres,Warehouse,Warehouse Associate,EMP0011,mark.torres@lotscorp.com,09661824850,9/29/2025,Regular,25000,Active,10/2/2025 18:15,6/11/2026 22:06
+EMP0018,Julia,Mendoza,Julia Mendoza,Warehouse,Warehouse Associate,EMP0011,julia.mendoza@lotscorp.com,09352680849,12/3/2021,Regular,20000,Active,12/8/2021 13:25,8/18/2023 14:46
+EMP0019,Sophia,Rivera,Sophia Rivera,Warehouse,Warehouse Associate,EMP0011,sophia.rivera@lotscorp.com,09982347752,5/6/2022,Regular,27500,Active,5/8/2022 13:47,10/21/2024 15:41
+EMP0020,Michelle,Villanueva,Michelle Villanueva,Procurement,Procurement Manager,EMP0001,michelle.villanueva@lotscorp.com,09771471163,10/1/2022,Probationary,75000,Active,10/6/2022 1:29,5/19/2024 23:53
+EMP0021,Jenny,Villanueva,Jenny Villanueva,Procurement,Purchasing Officer,EMP0020,jenny.villanueva@lotscorp.com,09170316612,6/5/2023,Regular,38000,Active,6/9/2023 1:23,2/7/2026 8:42
+EMP0022,Patrick,Flores,Patrick Flores,Procurement,Purchasing Officer,EMP0020,patrick.flores@lotscorp.com,09172637487,9/23/2022,Regular,38500,Active,9/29/2022 23:17,3/23/2024 15:50
+EMP0023,Bea,Garcia,Bea Garcia,Finance,Finance Manager,EMP0001,bea.garcia@lotscorp.com,09457284427,6/24/2022,Probationary,71500,Resigned,6/26/2022 0:15,12/14/2024 16:27
+EMP0024,Vincent,Bautista,Vincent Bautista,Finance,Accountant,EMP0023,vincent.bautista@lotscorp.com,09567412124,5/12/2025,Regular,44000,Active,5/12/2025 16:18,8/26/2025 7:02
+EMP0025,Patrick,Ocampo,Patrick Ocampo,Finance,Accountant,EMP0023,patrick.ocampo@lotscorp.com,09669890027,6/19/2024,Regular,47500,Active,6/19/2024 1:28,6/29/2024 20:07
+EMP0026,Christian,Mendoza,Christian Mendoza,Human Resources,HR Manager,EMP0001,christian.mendoza@lotscorp.com,09351979107,11/13/2021,Contract,77500,Active,11/14/2021 21:08,1/30/2026 19:18
+EMP0027,April,Santos,April Santos,Human Resources,HR Officer,EMP0026,april.santos@lotscorp.com,09280264893,4/13/2026,Regular,36000,Active,4/16/2026 2:13,4/20/2026 10:38
+EMP0028,Aaron,Mendoza,Aaron Mendoza,IT,IT Manager,EMP0001,aaron.mendoza@lotscorp.com,09450915766,7/21/2021,Regular,77500,Active,7/24/2021 23:53,8/14/2023 7:53
+EMP0029,Rafael,De Guzman,Rafael De Guzman,IT,IT Support Specialist,EMP0028,rafael.deguzman@lotscorp.com,09199825841,4/4/2022,Regular,45000,Active,4/7/2022 18:22,3/9/2024 17:08
+EMP0030,Emmanuel,Rivera,Emmanuel Rivera,Operations,Operations Manager,EMP0001,emmanuel.rivera@lotscorp.com,09354668830,10/22/2021,Probationary,93500,Active,10/28/2021 14:52,11/2/2021 15:08
