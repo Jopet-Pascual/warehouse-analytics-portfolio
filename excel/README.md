@@ -1,5 +1,5 @@
 # Excel Skills
-This directory contains all Excel files used to cleaning data, creating dashboard, creating Pivot Tables and analyze the data for the LOTS Corp Warehouse Analytics project.
+This directory contains all Excel files used to cleaning the data for LOTS Corp Warehouse Analytics project.
 
 ---
 
